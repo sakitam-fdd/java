@@ -2,7 +2,9 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
+/**
+ * Created by FDD on 2016/11/19.
+ */
 public class DBConnector{
     /**
      * 连接MySQL数据库的方法
