@@ -6,7 +6,7 @@ package com.util.dbmethod;
 import java.sql.*;
 
 /**
- * @author yuanmuou
+ * @author FDD
  * @功能：数据库函数集合
  * @要求：需要引入mysql-jdbc驱动
  */
